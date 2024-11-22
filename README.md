@@ -148,7 +148,8 @@ const mohamed = {
 <!-- Spotify Playing -->
 <h3 align="center">🎧 Spotify Playing</h3>
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+  <a href="https://open.spotify.com/user/31gtzoc7o447w22s5rxjy2vu5tnu
+">
     <img src="https://novatorem-khaki-ten.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
   </a>
 </p>
