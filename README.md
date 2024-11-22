@@ -122,6 +122,7 @@ const mohamed = {
   <img src="https://github.com/mohamedabdelhamed0/mohamedabdelhamed0/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%">
 </p>
 
+
 <!-- Connect with Me -->
 <h2>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24">
